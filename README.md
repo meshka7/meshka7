@@ -1,4 +1,4 @@
-<h1>Hi, I'm Viktor! <br/><a href="https://github.com/joshmadakor1">QA Tester</a></h1>
+<h1>Hi, I'm Viktor!
 
 <h2>QA Projects:</h2>
 
