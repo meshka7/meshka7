@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Viktor! <br/><a href="https://github.com/joshmadakor1">QA Tester</a></h1>
 
-<!--
-**meshka7/meshka7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>QA Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Web Testing Projects</b>
+  - [Drive folder with Web Testing Projects](https://drive.google.com/drive/folders/1_h3BlXtvLST5L0oIUmxIofecWg-8IGTl)
+- <b>Mobile Game App</b>
+  - [Clockmaker](https://drive.google.com/drive/folders/1FGLg1DuMvPhF97ZC127GSUfackynnXNW)
+- <b>API Testing</b> 
+  - [API Projects](https://drive.google.com/drive/folders/13QfST1bH1l63n3k35f9D_0gH6I3Df0Mj)
+- <b>SQL</b>
+  - [SQL Assigments](https://drive.google.com/drive/folders/1cMC3Y2jGYQC3POScrNWDgs4VrBVeF4HK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/viknikland/
+
