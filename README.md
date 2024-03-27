@@ -1,4 +1,6 @@
-<h1>Hi, I'm Viktor!
+<h1>Hi, I'm Viktor!</h1>
+<b>Transitioning from a background in technical and customer support, I'm currently immersing myself in quality assurance as a QA Tester. While I'm still mastering the Python, I'm proud to hold a certificate validating my proficiency. This, coupled with my recent completion of a QA tester course, fuels my passion for delivering high-quality software. I'm excited to share my journey and projects here on GitHub. Let's collaborate and strive for excellence together!
+</b>
 
 <h2>QA Projects:</h2>
 
@@ -37,7 +39,7 @@
 
 ---
 
-<h2>📱 Mobile App testing:</h2>
+<h2>📱 Mobile App Testing:</h2>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -54,7 +56,6 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -65,7 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  
 </div>
 
 <h2> 🤳 Connect with me:</h2>
