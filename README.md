@@ -10,6 +10,12 @@
   - [API Projects](https://drive.google.com/drive/folders/13QfST1bH1l63n3k35f9D_0gH6I3Df0Mj)
 - <b>SQL</b>
   - [SQL Assigments](https://drive.google.com/drive/folders/1cMC3Y2jGYQC3POScrNWDgs4VrBVeF4HK)
+ 
+<h2>Certificates:</h2>
+
+- <b>Python</b>
+  - [From Zero to Hero Udemy Course](https://www.udemy.com/certificate/UC-2df9330f-a72e-4c8d-a948-86626ac44ce2/)
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
