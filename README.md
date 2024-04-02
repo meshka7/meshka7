@@ -3,6 +3,8 @@
 <b>Transitioning from a background in technical and customer support, I'm currently immersing myself in quality assurance as a QA Tester. While I'm still mastering the Python, I'm proud to hold a certificate validating my proficiency. This, coupled with my recent completion of a QA tester course, fuels my passion for delivering high-quality software. I'm excited to share my journey and projects here on GitHub. Let's collaborate and strive for excellence together!
 </b>
 
+[Link to my CV](https://drive.google.com/file/d/1EXX_DT6O8pZxQBkxzLV46OkVSA0eKKBn/view?usp=sharing)
+
 <h2>📂QA Projects:</h2>
 
 - <b>Web Testing Projects</b>
