@@ -20,7 +20,8 @@
 
 - <b>Python</b>
   - [From Zero to Hero Udemy Course](https://www.udemy.com/certificate/UC-2df9330f-a72e-4c8d-a948-86626ac44ce2/)
- 
+- <b>Software Testing</b>
+  - [Software Testing From Scratch](https://stepik.org/cert/2406705?lang=en)
 
     
 
