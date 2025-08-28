@@ -43,9 +43,4 @@ I started my career in **technical and customer support**, but now I’m buildin
 **Coding & Tools**  
 `Python` · `Git` · `Bash` · `VS Code`  
 
----
-
-## 🤳 Connect with me  
-- 📄 [My CV](link)  
-- 💼 LinkedIn *(add link)*  
-- 📧 Email *(visible in GitHub profile)*  
+---  
